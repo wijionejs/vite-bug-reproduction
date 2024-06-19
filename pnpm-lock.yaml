@@ -6,11 +6,8 @@ settings:
 
 dependencies:
   library-with-dynamic-import:
-    specifier: ^2.0.0
-    version: 2.0.0(markdown-to-text@0.1.1)
-  markdown-to-text:
-    specifier: ^0.1.1
-    version: 0.1.1
+    specifier: ^1.0.0
+    version: 1.0.0
 
 devDependencies:
   vite:
@@ -405,10 +402,8 @@ packages:
     dev: true
     optional: true
 
-  /library-with-dynamic-import@2.0.0(markdown-to-text@0.1.1):
-    resolution: {integrity: sha512-g0qT5j0F1MDU5uWIFCM79JyAL+jP3WunRMvg16gdTmEccAMBuUEfKbRWkiOjsMyIIrE8B3Ihc/lykXYH/Evezw==}
-    peerDependencies:
-      markdown-to-text: ^0.1.1
+  /library-with-dynamic-import@1.0.0:
+    resolution: {integrity: sha512-it+hD9fVq/r9iL+BFTXU5dueyoyGIfgOEFpsYkVh9bQ2mdt9lVTt5ANL+H/wlWpk7ABSlGfBkrs44txzTmV+Gg==}
     dependencies:
       markdown-to-text: 0.1.1
     dev: false

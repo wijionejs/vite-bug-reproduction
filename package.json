@@ -12,7 +12,6 @@
     "vite": "^5.2.0"
   },
   "dependencies": {
-    "library-with-dynamic-import": "^2.0.0",
-    "markdown-to-text": "^0.1.1"
+    "library-with-dynamic-import": "^1.0.0"
   }
 }

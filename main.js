@@ -1,0 +1,1 @@
+import "library-with-dynamic-import";
